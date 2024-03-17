@@ -1,0 +1,21 @@
+{
+    "latitude": 11.20,
+    "longitude": 77.34,
+    "satellites": 6,
+    "hdop": 1.2,
+    "age": 100,
+    "altitude": 343.30,
+    "deg": 8.94,
+    "speed": 5.91,
+    "humidity": 53.20,
+    "temperature": 32.30,
+    "fahrenheit": 90.14,
+    ",": {
+        "BSSID": "CE:47:40:EB:F5:B5",
+        "Gateway IP": "192.168.137.1",
+        "Subnet Mask": "255.255.255.0",
+        "RSSI": "-15dB",
+        "Local IP": "192.168.137.11"
+    },
+    "distance": 103
+}

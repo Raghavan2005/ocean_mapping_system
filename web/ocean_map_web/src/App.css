@@ -1,0 +1,9 @@
+:root{
+    background-color: #101727;
+    /* Hide vertical scrollbar */
+    /* Hide horizontal scrollbar */
+}
+.hidesm{
+    overflow-y: hidden;
+    overflow-x: hidden;
+}
